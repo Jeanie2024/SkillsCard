@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>My Skills Card</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1>HND Software Development Skills</h1>
+<br>
+</br>
+  <h2>Personal Self-Management Skills</h2>
+  <ul>
+    <li>Focusing</li>
+    <li>Adapting</li>
+    <li>Initiative</li>
+    <li>Integrity</li>
+    <li>Organisational skills</li>
+  </ul>
+<br>
+</br>
+  <h2>Social Intelligence Skills</h2>
+  <ul>
+    <li>Communication</li>
+    <li>Collaboration</li>
+    <li>Problem Solving</li>
+    <li>Empathy</li>
+    <li>Punctuality</li>
+    <li>Patience</li>
+    <li>Active listening</li>
+  </ul>
+<br>
+</br>
+  <h2>Programming Languages Skills</h2>
+  <ul>
+    <li>Python</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Java</li>
+  </ul>
+
+ 
+</body>
+
+</html>
